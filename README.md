@@ -185,16 +185,20 @@ Designation - Sr. Customer Support Engineer @ [City Computers Pvt. Ltd.] (May 19
 -	Microsoft Certified Professional (Windows 2000)
 -	Microsoft Certified Systems Engineer (Windows NT)
 
-## 💬 Languages Known
-🇺🇸 English
-Hindi: Native
+## 💬 Languages
+
+🇺🇸 **English**: <br>
+   **Hindi**: Native
+<br><br>
 
 ## 👩🏼‍🎓 Education
-Bachelor of Arts in Double English
-Dr. Bhimrao Ambedkar University (Formerly known as Agra University) - Agra, Uttar Pradesh, India (1994 - 1997)
-Advanced Diploma in Computer Hardware and Maintenance from Electronics Trade and Technology Development Corporation Ltd.
 
-## Regards,
+**Bachelor of Arts** in Double English<br>
+[Dr. Bhimrao Ambedkar University (Formerly known as Agra University)](http://www.dbrau.org.in/) - Agra, Uttar Pradesh, India _(1994 - 1997)_
 
-## Ashish Sharma
+**Advanced Diploma in Computer Hardware and Maintenance** from Electronics Trade And Technology Development Corporation Ltd. <br>
+
+                                                                                                                                           **Regards,**
+
+                                                                                                                                           **Ashish Sharma**
 
