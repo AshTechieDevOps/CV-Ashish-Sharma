@@ -56,8 +56,7 @@ Projects based platform that enables professionals to provide Private, Public & 
 -	Crating HLDs, LLDs, Migration Approaches and get the same reviewed and approved with the Customer and other Stakeholders.
 -	Provide guidance to the team of subject matter experts for the successful implementation of the approved solution design.
 - **_Technologies used:_** Azure Migrate, Azure File Sync, Azure PowerShell, ARM Template, Azure Bicep, GitHub with Local Git, Visual Studio Code, Terraform, ASR, 				AWS SMS, AWS DMS, Zerto and Carbonite Doubletake, Draw.io.
- 
- <br><br>
+  <br><br>
 **Designation:- Technical Services Team Leader | Business tittle as VMWare Architect** @ [IBM India Pvt. Ltd.](https://www.ibm.com/in-en) _(Jul 2015 - Aug 2018)_ <br>
 Projects based platform that enables professionals to provide Private, Public & Hybrid Cloud Solutions Design Offerings, Cloud Migration Solutions, Infrastructure as Code and Automation Solutions along with providing Escalation Support to BAU Team. Had one-time Overseas Business Travel to Indonesia.
 
@@ -69,7 +68,6 @@ Projects based platform that enables professionals to provide Private, Public & 
 -	Provided Escalation Support for BAU to manage overall VMWare vSphere Infrastructure of 18 Countries which includes 18 venters, 18 VMWare Update Managers, and 	      618 ESXi Hypervisors.
 -	Worked as Compliance focal for overall VMWare vSphere Infrastructure security health check, and compliance for 18 countries. Also worked as Quality focal for 	      VMWare technical tower to provide regular quality audit, and service improvement plans for virtual infrastructure.
 - **_Technologies used:_** vRealize Operations Manager, RVTools, VMWare PowerCli scripts, vCenter, ESXi hosts, Update Manager, Local Git and GitHub PowerShell Actions 	       			  for CICD, VMWare NSX, Draw.io.
-
 <br><br>
 
 **Designation:- SENIOR ADVISOR** @ [DELL International](https://www.dell.com/en-in/) _(Dec 2012 - Jan 2015)_ <br>
@@ -79,47 +77,64 @@ Wintel and VMWare BAU Support as a SENIOR ADVISOR.
 -	Guiding and helping BAU team for the validation and Implementation of the proposed and approved Design for Virtualization.
 -	Working as a compliance focal for VMWare infrastructure.
  - **_Technologies used:_** vRealize Operations Manager, RVTools, VMWare PowerCli scripts, vCenter, ESXi hosts, Update Manager, Windows Administrative Tools, vRO, 			       VRA, Microsoft Visio.
+<br><br>
 
- *Designation: ASSOCIATE CONSULTANT – MANAGER - SENIOR MANAGER @ HCL Technologies Ltd. (May 2008 - Nov 2012)
-Had three-time Overseas Business Travel to Belgium, Australia, and Philippines. Worked and supported for multiple projects and BAU activities.
-Project CE
+**Designation: ASSOCIATE CONSULTANT – MANAGER - SENIOR MANAGER** @ [HCL Technologies Ltd.](https://www.hcltech.com/) _(May 2008 - Nov 2012)_ <br>
+ Had three time Overseas Business Travel to Belgium, Australia and Philippines. Worked and Supported for multiple project and BAU activities.
+ 
+ **Project CE**
+ 
 -	Worked as a Service Owner for Wintel & VMware Tower for HCL Client named "Consumer Energy", USA.
-	Project Hudson
+
+ **Project Hudson**
+ 
 -	Worked for a few technical project works related to Active Directory and VMware for Hudson OMC and Provided level 3 support for Wintel, Active Directory, 	  VMware Server Virtual Infrastructure and VMware View VDI.
-Project Macquarie
+
+ **Project Macquarie**
+ 
 -	I have been to Manila, Philippines for a successful transition of Incident, change and problem management processes of Macquarie and provided KT to offshore 	     steady state team for the same.
-Project Hudson Australia
+
+ **Project Hudson Australia**
+ 
 I have been to Sydney – Australia for Active Directory and VMware vSphere related projects and to provide & implement improvements within their existing AD 	    and VMware vSphere infrastructure. Below are the key points: -
+
 -	Active Directory Cleanup/Housekeeping
 -	Thick to Thin conversion for their VMware vSphere virtual infrastructure.
 -	Physical to Virtual Conversion for them out of warranty physical servers.
 -	Working as a Lead consultant for problem management to control the recurrence of the issue(s).
-Project Bridgestone Europe
-I have been to Belgium, Europe for a successful transition of their infrastructure and then managing & administrating the same from India. Below is the summary of the responsibilities that includes in my KRAs to work as a Team Lead: -
+
+ **Project Bridgestone Europe**
+ I have been to Belgium, Europe for a successful transition of their infrastructure and then managing & administrating the same from India. Below is the summary of    	the responsibilities that includes in my KRAs to work as a Team Lead: -
+ 
 -	Administering and managing Windows Servers, Active Directory components and managing VMware virtual infrastructure.
 -	Administering and managing different Windows Components and Managing HP SAN.
 -	Working as a Technical lead in various projects & managing tracks like Wintel/Backup/Networks.
-Project DowJones
+
+ **Project DowJones**
+ 
 -	Managed end to end IT infrastructure support for dowjones, a leading player in global business news, and the publisher of wall street journal. Provided L3 	   support for Wintel, VMware & Cloud infrastructure.
 -	Worked for problem management, change management & incident management.
 -	Conducting internal technical trainings for the subordinates.
 -	Taking care of VMWare related health check, and compliance related requirements on quarterly basis.
--	Technologies used: vRealize Operations Manager, RVTools, VMWare PowerCli scripts, vCenter, ESXi hosts, Update Manager, Windows Administrative Tools, vRO, VRA, 	       Microsoft Visio.
+- **_Technologies used:_** vRealize Operations Manager, RVTools, VMWare PowerCli scripts, vCenter, ESXi hosts, Update Manager, Windows Administrative Tools, vRO, VRA, 	       Microsoft Visio.
+ <br><br>
 
-Designation - Infrastructure Analyst @ Xansa India Ltd (A Sopra Steria Company) (Aug 2006 - May 2008)
+**Designation - Infrastructure Analyst** @ [Xansa India Ltd (A Soprasteria Company)](https://www.soprasteria.com/) _(Aug 2006 - May 2008)_ <br>
 
 -	Working on Windows 2003 Domains. Active Directory and DFS Administration and WSUS Administration, its analysis, implementation, and impacts.
 -	Working on Various UK Based projects as Technical Team Lead/Project Manager for Wintel and TSM Backup Support.
 -	Datacenter Management, 200 Server’s Health checkups and its related activities like RAID Failure, Vendor Management & Downtime management etc.
 
-Projects Undertaken
+ **Projects Undertaken**
+ 
 -	WSUS Installation and Configuration - Have successfully set up Windows Software Update Server (WSUS 2.0) With Master Server and Child Server Relationship 	  across four Sites in Xansa. All Servers and Desktops in India and UK are currently being updated with the help of these WSUS Servers only.
 -	VMWare ESX Server Installation - Have installed and Configured VMWare ESX 3.0 Enterprise Servers and setup virtual infrastructure within Xansa Offices across 	      the Globe.
 -	TSM Upgradation: Upgraded All TSM 5.2.4 servers with the TSM 5.3.2 including configuration of Policies.
 -	Business Continuity Plan - Completed the survey of Major servers & available resources, Configured DR of major servers, application & services.
--	Technologies used: Windows Administrative Tools, PowerShell, WSUS, TSM, AD, DFS, vCenter, ESX Hosts etc.
+- **_Technologies used:_**  Windows Administrative Tools, PowerShell, WSUS, TSM, AD, DFS, vCenter, ESX Hosts etc.
+ <br><br>
 
-Designation - System Administrator @ InterGlobe Enterprises Pvt. Ltd. (Apr 2006 - Aug 2006)
+**Designation - System Administrator** @ [InterGlobe Enterprises Pvt. Ltd.](https://www.interglobe.com/) _(Apr 2006 - Aug 2006)_ <br>
 
 -	Management of overall IT infrastructure operations that includes providing solutions to the common problems affecting various businesses.
 -	Primary responsibility to manage all the server farm i.e., DC, File server, print server, Antivirus Server, Proxy server, DNS, Mail server, Firewall server 	    etc.
@@ -128,36 +143,42 @@ Designation - System Administrator @ InterGlobe Enterprises Pvt. Ltd. (Apr 2006 
 -	Implementation of various policies including Security, Antivirus, Internet and OS hardening Based on ISO9001: 2000, BS 7799 and ITIL.
 -	Responsible for second and third level support for desktops and servers.
 -	Supporting offshore sites by using remote management tools like Dameware.
--	Technologies used: Windows Administrative Tools, Symantec Backup Exec and Symantec Live Stat Recovery, WSUS, AD, etc.
+- **_Technologies used:_** Windows Administrative Tools, Symantec Backup Exec and Symantec Live Stat Recovery, WSUS, AD, etc.
+    <br><br>
 
-Designation - FMS Engineer, Role - Infrastructure Analyst @ CMS COMPUTERS LTD. (Mar 2005 - Apr 2006)
+**Designation - FMS Engineer, Role - Infrastructure Analyst** @ [CMS COMPUTERS LTD.](https://www.cms.co.in/) _(Mar 2005 - Apr 2006)_ <br>
 
 -	Responsible for handling 64 locations with more than 6500 systems networks across India branch servers (IBM Netfinity servers) of GE Consumer Finance India, 	     which includes 2 major businesses GE Countrywide and GE-SBI.
 -	Responsible for installing, upgrading of patches & fine tuning of Windows 2000 Domain Controller and Additional Domain Controller. Performing regular health 	     check of Fax servers to ensure trouble free performance.
 -	Creation of User Accounts and define role-based users. Administration of user rights and providing appropriate privileges and policies and Implementation of 	     Security Policies for centralized control.
 -	Responsible for guiding teams of 45 engineers across India, Mentoring them in the maintenance of the branch servers. Providing resolution for escalated issues 	       by taking remote access through remote tools like PCAnywhere.
--	Technologies used: Windows Administrative Tools, AD, GPO and PC Anywhere etc.
+- **_Technologies used:_** Windows Administrative Tools, AD, GPO and PC Anywhere etc.
+    <br><br>
 
-Designation - Sr. Network Engineer, Role - Technical Support Engineer @ Cilent Technologies Pvt. Ltd. (Jan 2002 - Mar 2005)
+**Designation - Sr. Network Engineer, Role - Technical Support Engineer** @ [Cilent Technologies Pvt. Ltd.](https://www.cilenttechnologies.com/) _(Jan 2002 - Mar 2005)_ <br>
 
 -	Providing Onsite Server, Network and Desktop support to various clients which comes under AMC.
--	Technologies used: Windows Administrative Tools, Cisco IOS Switches, Novell NetWare, Routers AD, GPO and Other Specific Tools etc.
+- **_Technologies used:_** Windows Administrative Tools, Cisco IOS Switches, Novell NetWare, Routers AD, GPO and Other Specific Tools etc.
+    <br><br>
 
-Designation - System Administrator @ DataPro (May 1999 - Dec 2001)
+**Designation - System Administrator** @ [DataPro](https://www.geocities.com/softex_infotech/) _(May 1999 - Dec 2001)_ <br>
 
 -	Management of overall internal IT infrastructure support that includes providing solutions to the common problems affecting day to day business.
 -	Management of Active Directory Domain, Maintenance, Troubleshooting of desktops.
--	Technologies used: Windows NT, Novell NetWare, Cisco IOS Switches, Routers AD, Oracle, D2K, Third Party Proxy Servers, NDD etc.
+- **_Technologies used:_** Windows NT, Novell NetWare, Cisco IOS Switches, Routers AD, Oracle, D2K, Thrid Party Proxy Servers, NDD etc.
+    <br><br>
 
-Designation - Sr. Customer Support Engineer @ [City Computers Pvt. Ltd.] (May 1998 - Apr 1999)
+**Designation - Sr. Customer Support Engineer** @ [City Computers Pvt. Ltd.] _(May 1998 - Apr 1999)_ <br>
 
 -	Providing Onsite Server, Network and Desktop support to various clients which comes under AMC.
--	Technologies used: Windows NT, Cisco IOS Switches, Routers AD, Novell NetWare, Third Party Proxy Servers, NDD and Other Specific Tools etc.
+- **_Technologies used:_** Windows NT, Cisco IOS Switches, Routers AD, Novell NetWare, Thrid Party Proxy Servers, NDD and Other Specific Tools etc.
+    <br><br>
 
-	Designation - Customer Support Engineer @ [Allied Enterprises] (Nov 1997 - May 1998)
+**Designation - Customer Support Engineer** @ [Allied Enterprises] _(Nov 1997 - May 1998)_ <br>
 	
 -	Maintenance, Troubleshooting, upgradation of desktop Computers which includes hardware troubleshooting of Desktops computers assembled and branded series of 	     desktop computers.
--	Technologies used: Windows 3.11, Windows 95, Windows 98, NDD and Other Specific Tools etc.
+- **_Technologies used:_** Windows 3.11, Windows 95, Windows 98, NDD and Other Specific Tools etc.
+    <br><br>
 
 ## 🏆 Certificates & Trainings Accomplishments
 
