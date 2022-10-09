@@ -57,6 +57,7 @@ Projects based platform that enables professionals to provide Private, Public & 
 -	Provide guidance to the team of subject matter experts for the successful implementation of the approved solution design.
 - **_Technologies used:_** Azure Migrate, Azure File Sync, Azure PowerShell, ARM Template, Azure Bicep, GitHub with Local Git, Visual Studio Code, Terraform, ASR, 				AWS SMS, AWS DMS, Zerto and Carbonite Doubletake, Draw.io.
   <br><br>
+
 **Designation:- Technical Services Team Leader | Business tittle as VMWare Architect** @ [IBM India Pvt. Ltd.](https://www.ibm.com/in-en) _(Jul 2015 - Aug 2018)_ <br>
 Projects based platform that enables professionals to provide Private, Public & Hybrid Cloud Solutions Design Offerings, Cloud Migration Solutions, Infrastructure as Code and Automation Solutions along with providing Escalation Support to BAU Team. Had one-time Overseas Business Travel to Indonesia.
 
