@@ -1,13 +1,13 @@
 # Curriculum Vitae
 
 # Ashish Sharma
-  **📨** - sendmail.ashish@gmail.com, ashish@ashtechie.com
+  **📨**  sendmail.ashish@gmail.com, ashish@ashtechie.com
   
-  **📱** - +919810553282
+  **📱**  +919810553282
 
-[GitHub](https://github.com/ashtechiedevops/) / [LinkedIn](https://www.linkedin.com/in/ashish-sharma-51b3a19/) / [Website](https://ashtechie.com/) / [Twitter](https://twitter.com/ashtechie777/) / [Instagram](https://www.instagram.com/ashtechieworld/)
+  **⌨️**  [GitHub](https://github.com/ashtechiedevops/) / [LinkedIn](https://www.linkedin.com/in/ashish-sharma-51b3a19/) / [Website](https://ashtechie.com/) / [Twitter](https://twitter.com/ashtechie777/) / [Instagram](https://www.instagram.com/ashtechieworld/)
 
-  **🛂** - Z4079902
+  **🛂**  Z4079902
 
 ![image](https://user-images.githubusercontent.com/110538923/194756161-8f44b4ef-30ff-427a-9a59-f90282d03549.png)
 
