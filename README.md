@@ -212,7 +212,7 @@ I have been to Sydney – Australia for Active Directory and VMware vSphere rela
    **Hindi**: Native
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 🎓 Education
 
 **Bachelor of Arts** in Double English<br>
 [Dr. Bhimrao Ambedkar University (Formerly known as Agra University)](http://www.dbrau.org.in/) - Agra, Uttar Pradesh, India _(1994 - 1997)_
