@@ -1,7 +1,7 @@
 # Curriculum Vitae
 
 # Ashish Sharma
-  **Email**:- sendmail.ashish@gmail.com, ashish@ashtechie.com
+  **📨**:- sendmail.ashish@gmail.com, ashish@ashtechie.com
   
   **Mobile**:- +919810553282
 
