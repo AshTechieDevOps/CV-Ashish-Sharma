@@ -219,6 +219,5 @@ I have been to Sydney – Australia for Active Directory and VMware vSphere rela
 
 **Advanced Diploma in Computer Hardware and Maintenance** from Electronics Trade And Technology Development Corporation Ltd. <br>
 
-# Regards,
-# Ashish Sharma
+                                                                                                                              # Ashish Sharma
 
