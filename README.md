@@ -32,7 +32,7 @@ I do have sound knowledge of Cisco InterSight along with Cisco UCS, Hyperflex, D
 -	Black Belt-Tech Expert-Cisco UCS Deployment-Stage 1 FY22
 -	VMWare 2X Certified Professional - Datacenter & Network Virtualization
 
-## 👩🏼‍💻 Work Experience Detail
+## 👨‍💻 Work Experience Detail
 
 **Designation: - Consultant   Role: - Data Center & Cloud Architect – Hybrid Cloud Integration (HCI)** @ [HCL Technologies Ltd.](https://www.hcltech.com/) _(Oct 2018 - Present)_ <br>
 Projects based platform that enables professionals to provide Private, Public & Hybrid Cloud Solutions Design Offerings, Cloud Migration Solutions, 		  Infrastructure as Code and Automation Solutions.
