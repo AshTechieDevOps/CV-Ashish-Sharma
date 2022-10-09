@@ -1,4 +1,4 @@
-##Curriculum Vitae
+# Curriculum Vitae
 
 # Ashish Sharma
   **Email**:- "sendmail.ashish@gmail.com", "ashish@ashtechie.com"
@@ -11,7 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/110538923/194756161-8f44b4ef-30ff-427a-9a59-f90282d03549.png)
 
-Hi   There,
+Hi ![image](https://user-images.githubusercontent.com/110538923/194757110-0b6ad973-0339-4886-9105-5ade7d4c30b7.png) There,
 
 I`m Ashish Sharma who have 24+ Years of Mix & Match Experience of Designing and Architecting Wintel, VMware DCV/NSX/vRO/vRA/vRops, Azure Cloud, Microsoft Cybersecurity, Azure DevOps, AWS, and Google Cloud Solutions offerings.
 
@@ -19,7 +19,7 @@ I am an Expert of Infrastructure as Code using Terraform, Code as Infrastructure
 
 I do have sound knowledge of Cisco InterSight along with Cisco UCS, Hyperflex, Dell EMC VXRail and other Hyperconverged, Converged & Bare Metal Server Hardware. I have major expertise in Solution Designing of Datacenter and Network Virtualization using VMware vSphere, On-Premises to On-Premises and On-Premises to Cloud Migration & Transformation, Automated & Scripted Migration. I have also taken care of a variety of Greenfield and Brownfield Infrastructure Design, Management, and Security Compliance requirements.
 
-🏆 ##  Active Certifications
+## 🏆 Active Certifications
 
 •	AWS Certified Solutions Architect Associate
 •	Microsoft Certified Cybersecurity Architect Expert
@@ -32,7 +32,7 @@ I do have sound knowledge of Cisco InterSight along with Cisco UCS, Hyperflex, D
 •	Black Belt-Tech Expert-Cisco UCS Deployment-Stage 1 FY22
 •	VMWare 2X Certified Professional - Datacenter & Network Virtualization
 
-👩🏼‍💻 ## Work Experience Detail
+## 👩🏼‍💻 Work Experience Detail
 
 **Designation: - Consultant   Role: - Data Center & Cloud Architect – Hybrid Cloud Integration (HCI)** @ [HCL Technologies Ltd.](https://www.hcltech.com/) _(Oct 2018 - Present)_ <br>
 Projects based platform that enables professionals to provide Private, Public & Hybrid Cloud Solutions Design Offerings, Cloud Migration Solutions, 		  Infrastructure as Code and Automation Solutions.
@@ -81,7 +81,7 @@ Wintel and VMWare BAU Support as a SENIOR ADVISOR.
 •	Working as a compliance focal for VMWare infrastructure.
  - **_Technologies used:_** vRealize Operations Manager, RVTools, VMWare PowerCli scripts, vCenter, ESXi hosts, Update Manager, Windows Administrative Tools, vRO, 			       VRA, Microsoft Visio.
 
-Designation: ASSOCIATE CONSULTANT – MANAGER - SENIOR MANAGER @ HCL Technologies Ltd. (May 2008 - Nov 2012)
+ *Designation: ASSOCIATE CONSULTANT – MANAGER - SENIOR MANAGER @ HCL Technologies Ltd. (May 2008 - Nov 2012)
 Had three-time Overseas Business Travel to Belgium, Australia, and Philippines. Worked and supported for multiple projects and BAU activities.
 Project CE
 •	Worked as a Service Owner for Wintel & VMware Tower for HCL Client named "Consumer Energy", USA.
@@ -108,6 +108,7 @@ Project DowJones
 •	Technologies used: vRealize Operations Manager, RVTools, VMWare PowerCli scripts, vCenter, ESXi hosts, Update Manager, Windows Administrative Tools, vRO, VRA, 	       Microsoft Visio.
 
 Designation - Infrastructure Analyst @ Xansa India Ltd (A Sopra Steria Company) (Aug 2006 - May 2008)
+
 •	Working on Windows 2003 Domains. Active Directory and DFS Administration and WSUS Administration, its analysis, implementation, and impacts.
 •	Working on Various UK Based projects as Technical Team Lead/Project Manager for Wintel and TSM Backup Support.
 •	Datacenter Management, 200 Server’s Health checkups and its related activities like RAID Failure, Vendor Management & Downtime management etc.
@@ -120,6 +121,7 @@ Projects Undertaken
 •	Technologies used: Windows Administrative Tools, PowerShell, WSUS, TSM, AD, DFS, vCenter, ESX Hosts etc.
 
 Designation - System Administrator @ InterGlobe Enterprises Pvt. Ltd. (Apr 2006 - Aug 2006)
+
 •	Management of overall IT infrastructure operations that includes providing solutions to the common problems affecting various businesses.
 •	Primary responsibility to manage all the server farm i.e., DC, File server, print server, Antivirus Server, Proxy server, DNS, Mail server, Firewall server 	    etc.
 •	Security of networks using the vulnerability assessment, Virus protection using Symantec Anti- Virus. Implementation of latest security patches for any 	intrusion and fixing bugs on OS.
@@ -130,6 +132,7 @@ Designation - System Administrator @ InterGlobe Enterprises Pvt. Ltd. (Apr 2006 
 •	Technologies used: Windows Administrative Tools, Symantec Backup Exec and Symantec Live Stat Recovery, WSUS, AD, etc.
 
 Designation - FMS Engineer, Role - Infrastructure Analyst @ CMS COMPUTERS LTD. (Mar 2005 - Apr 2006)
+
 •	Responsible for handling 64 locations with more than 6500 systems networks across India branch servers (IBM Netfinity servers) of GE Consumer Finance India, 	     which includes 2 major businesses GE Countrywide and GE-SBI.
 •	Responsible for installing, upgrading of patches & fine tuning of Windows 2000 Domain Controller and Additional Domain Controller. Performing regular health 	     check of Fax servers to ensure trouble free performance.
 •	Creation of User Accounts and define role-based users. Administration of user rights and providing appropriate privileges and policies and Implementation of 	     Security Policies for centralized control.
@@ -137,22 +140,27 @@ Designation - FMS Engineer, Role - Infrastructure Analyst @ CMS COMPUTERS LTD. (
 •	Technologies used: Windows Administrative Tools, AD, GPO and PC Anywhere etc.
 
 Designation - Sr. Network Engineer, Role - Technical Support Engineer @ Cilent Technologies Pvt. Ltd. (Jan 2002 - Mar 2005)
+
 •	Providing Onsite Server, Network and Desktop support to various clients which comes under AMC.
 •	Technologies used: Windows Administrative Tools, Cisco IOS Switches, Novell NetWare, Routers AD, GPO and Other Specific Tools etc.
 
 Designation - System Administrator @ DataPro (May 1999 - Dec 2001)
+
 •	Management of overall internal IT infrastructure support that includes providing solutions to the common problems affecting day to day business.
 •	Management of Active Directory Domain, Maintenance, Troubleshooting of desktops.
 •	Technologies used: Windows NT, Novell NetWare, Cisco IOS Switches, Routers AD, Oracle, D2K, Third Party Proxy Servers, NDD etc.
 
 Designation - Sr. Customer Support Engineer @ [City Computers Pvt. Ltd.] (May 1998 - Apr 1999)
+
 •	Providing Onsite Server, Network and Desktop support to various clients which comes under AMC.
 •	Technologies used: Windows NT, Cisco IOS Switches, Routers AD, Novell NetWare, Third Party Proxy Servers, NDD and Other Specific Tools etc.
+
 	Designation - Customer Support Engineer @ [Allied Enterprises] (Nov 1997 - May 1998)
+	
 •	Maintenance, Troubleshooting, upgradation of desktop Computers which includes hardware troubleshooting of Desktops computers assembled and branded series of 	     desktop computers.
 •	Technologies used: Windows 3.11, Windows 95, Windows 98, NDD and Other Specific Tools etc.
 
-🏆 Certificates & Trainings Accomplishments
+## 🏆 Certificates & Trainings Accomplishments
 
 •	AWS Certified Solutions Architect Associate
 •	Microsoft Certified Cybersecurity Architect Expert
@@ -177,16 +185,16 @@ Designation - Sr. Customer Support Engineer @ [City Computers Pvt. Ltd.] (May 19
 •	Microsoft Certified Professional (Windows 2000)
 •	Microsoft Certified Systems Engineer (Windows NT)
 
-💬 Languages Known
+## 💬 Languages Known
 🇺🇸 English
 Hindi: Native
 
-👩🏼‍🎓 Education
+## 👩🏼‍🎓 Education
 Bachelor of Arts in Double English
 Dr. Bhimrao Ambedkar University (Formerly known as Agra University) - Agra, Uttar Pradesh, India (1994 - 1997)
 Advanced Diploma in Computer Hardware and Maintenance from Electronics Trade and Technology Development Corporation Ltd.
 
-Regards,
+## Regards,
 
-Ashish Sharma
+## Ashish Sharma
 
