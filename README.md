@@ -1,9 +1,9 @@
 # Curriculum Vitae
 
 # Ashish Sharma
-  **📨**:- sendmail.ashish@gmail.com, ashish@ashtechie.com
+  **📨** sendmail.ashish@gmail.com, ashish@ashtechie.com
   
-  **Mobile**:- +919810553282
+  **✆** - +919810553282
 
 [GitHub](https://github.com/ashtechiedevops/) / [LinkedIn](https://www.linkedin.com/in/ashish-sharma-51b3a19/) / [Website](https://ashtechie.com/) / [Twitter](https://twitter.com/ashtechie777/) / [Instagram](https://www.instagram.com/ashtechieworld/)
 
